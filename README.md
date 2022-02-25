@@ -1,5 +1,5 @@
 # Training_LunarLander_by_SB3
-Training lunar lander Environment by SB3 PPO and A2C algorithms
+Training lunar lander Environment by SB3: Reinforcement Learning with Stable Baselines 3 (PPO and A2C algorithms)
 
 Resources:
 
